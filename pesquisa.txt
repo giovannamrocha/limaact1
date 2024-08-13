@@ -1,0 +1,36 @@
+LIMA - 13.08
+
+A semântica no HTML é importante porque:
+
+A Semântica HTML é um conceito fundamental na construção de páginas 
+web. Trata-se da utilização correta das tags HTML para representar 
+o conteúdo de uma página web de forma clara e significativa.
+
+https://www.treinaweb.com.br/blog/semantica-html-o-que-e-e-por-que-e-importante
+
+1. Organiza e Estrutura: Define a função das partes do conteúdo, 
+tornando o documento mais claro e bem organizado.
+2. Melhora a Acessibilidade: Facilita a interpretação por 
+tecnologias assistivas, beneficiando usuários com deficiências.
+3. Otimiza para SEO: Ajuda motores de busca a entender e 
+classificar melhor o conteúdo, melhorando o ranking da página.
+4. Facilita Manutenção: Um código semântico é mais fácil de ler, 
+entender e manter, o que ajuda na escalabilidade do projeto.
+
+SEO - SEO é a prática de melhorar um site para aumentar sua 
+visibilidade nos resultados de busca. Envolve otimizar o conteúdo, 
+usar palavras-chave relevantes, e ajustar elementos no site e fora 
+dele para atrair mais visitantes e melhorar a classificação nos 
+motores de busca.
+
+A Semântica HTML é importante para a acessibilidade porque permite 
+que as pessoas com deficiências visuais ou outras limitações possam 
+navegar pelas páginas com mais facilidade.
+As tags semânticas nos ajudam a estruturar o conteúdo da nossa 
+página de uma forma lógica e significativa, permitindo que leitores 
+de tela, por exemplo, possam identificar facilmente o que é um título, 
+um parágrafo ou uma lista.
+
+Quais as funções da semântica:
+A semântica no HTML organiza o conteúdo, melhora a acessibilidade, 
+otimiza para SEO e facilita a manutenção do código.

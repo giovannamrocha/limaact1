@@ -1,0 +1,83 @@
+{
+    width: auto;
+    height: auto;
+    background-color: antiquewhite;
+}
+body{
+    width: 98%;
+    height: 100%;
+    padding: 15px;
+}
+header, .menu{
+        padding: 10px;
+        color: black;
+        border: 1px;
+        border-style: dashed;
+}
+.menu{
+    background-color: rgb(235, 19, 19);
+}
+.Titulo, .Formação, .Experiências, .Tabela, .Sobrenos, .Midia{
+    margin-right: 10px;
+    padding: 12px;
+    border: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Formação, .Experiências h2{
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Formação, .Experiências{
+    color: black;
+}
+p{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h3{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 190%;
+}
+.Cards img{
+    margin: 20px;
+    width: 190px;
+    height: 190x;
+    border-radius: 300px;
+}
+a{
+    background-color: rgb(235, 19, 19);
+    color: black;
+    font-style: italic;
+    text-align: center;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+}
+iframe{
+    width: 10%;
+    height: 360%;
+}
+.fotoperfil{
+    width: 10%;
+    border-radius: 360%;
+}
+footer{
+    padding: 10%;
+    text-align: center;
+}
+.Cards{
+    background-color: rgb(235, 19, 19);
+}
+.Midia{
+    background-color: rgb(235, 19, 19);
+}
+h5{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200px;
+}
